@@ -1,18 +1,32 @@
-<pre>
 Hi there 👋
-
 I'm ✨Lisa✨
 
-🌱 Studied Web Development at Le Wagon Nantes
-🌱 Speaks english, ruby and spanish 
-🌱 Can be found at home most of the time
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WZ4M8M2VbauEo/giphy.gif"/>
+</div>
 
+<pre>
+🌱 Can be found at home most of the time
+🌱 Studied Web Development at Le Wagon Nantes
 </pre> 
 
-🌱 Check out my stats :sunglasses: :point_down:
+<div align="center">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"/>
+</div>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisalucie&langs_count=5&theme=tokyonight)]()
+<pre>
+🌱 Speaks english, ruby and spanish 
+</pre>
 
+<div align="center">
+  <img class="img" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lisalucie&langs_count=5&theme=tokyonight>
+</div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Lisalucie&count_private=true&theme=tokyonight&showicons=true)]()
+<pre>
+🌱 Committed to committing 😉
+</pre>
+
+<div align="center">
+   <img class="img" src=https://github-readme-stats.vercel.app/api/?username=Lisalucie&count_private=true&theme=tokyonight&showicons=true>
+</div>
 
