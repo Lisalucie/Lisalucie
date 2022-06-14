@@ -1,16 +1,18 @@
-### Hi there 👋
+<pre>
+Hi there 👋
 
-<!--
-**Lisalucie/Lisalucie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ✨Lisa✨
 
-Here are some ideas to get you started:
+🌱 Studied Web Development at Le Wagon Nantes
+🌱 Speaks english, ruby and spanish 
+🌱 Can be found at home most of the time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</pre> 
+
+🌱 Check out my stats :sunglasses: :point_down:
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisalucie&langs_count=5&theme=tokyonight)]()
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Lisalucie&count_private=true&theme=tokyonight&showicons=true)]()
+
