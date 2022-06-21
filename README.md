@@ -1,6 +1,11 @@
 Hi there 👋
 I'm ✨Lisa✨
 
+<pre>
+🌱 Full stack developer in Nantes
+🌱 Has_many :mangas,  dependent: :destroy
+</pre> 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WZ4M8M2VbauEo/giphy.gif"/>
 </div>
