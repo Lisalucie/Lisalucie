@@ -3,7 +3,6 @@ I'm ✨Lisa✨
 
 <pre>
 🌱 Full stack developer in Nantes
-🌱 Has_many :mangas,  dependent: :destroy
 </pre> 
 
 <div id="header" align="center">
@@ -11,7 +10,6 @@ I'm ✨Lisa✨
 </div>
 
 <pre>
-🌱 Can be found at home most of the time
 🌱 Studied Web Development at Le Wagon Nantes
 </pre> 
 
